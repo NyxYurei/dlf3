@@ -1,0 +1,12 @@
+|Defend the light!|
+ideia principal: Você deve defeder o cristal no centro do mapa, atacando os inimgos que aparecem em ondas
+Ao fim de cada onda você pode amumentar seus poderes (ter mais vida, ataque, poderes ou defesa).
+Passos:
+criar menu
+criar área do jogo
+criar personagem
+criar power ups 
+fazer ao menos 3 fases(2 normais, 1 boss)
+
+outras infos 
+ao menos 6 gamestate
